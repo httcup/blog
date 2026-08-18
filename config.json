@@ -2,6 +2,8 @@
     "title":"小胡小胡的博客",
     "subTitle":"xhxh.vip",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
+    "indexScript":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "showPostSource":0,
     "needComment":0,
     "GMEEK_VERSION":"last"
